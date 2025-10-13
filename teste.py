@@ -1,1 +1,1 @@
-print("Teste de comando")
+print("12345")
