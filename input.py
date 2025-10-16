@@ -46,18 +46,73 @@
 
 # print ("O comprimento da hiptenusa é:" , str((lado_a ** 2 + lado_b ** 2) ** .5))
 
-valor_1 = float(input("Digite o valor 1: "))
+# valor_1 = float(input("Digite o valor 1: "))
 
-valor_2 = float(input("Digite o valor 2: "))
+# valor_2 = float(input("Digite o valor 2: "))
 
-print("O resultado da adição é: " , (valor_1 + valor_2))
+# print("O resultado da adição é: " , (valor_1 + valor_2))
 
-print("O resultado da subtração é: " , (valor_1 - valor_2))
+# print("O resultado da subtração é: " , (valor_1 - valor_2))
 
-print("O resultado da multiplicação é: " , (valor_1 * valor_2))
+# print("O resultado da multiplicação é: " , (valor_1 * valor_2))
 
-print("O resultado da divisão é: " , (valor_1 / valor_2))
+# print("O resultado da divisão é: " , (valor_1 / valor_2))
 
-print("\nIsso é tudo, pessoal!")
+# print("\nIsso é tudo, pessoal!")
 
-result = flout
+# x = float(input("Digite um valor de entrada: "))
+
+# y = 0
+
+# result = (1/ (x + 1 / (x + 1 / x)))
+
+# y = result
+
+# print(result)
+
+# hora = int (input("Hora de inicio (horas): "))
+
+# min = int (input("Hora de inicicio(minutos): "))
+
+# dura = int(input("Duração do evento (minutos): "))
+
+# min = min + dura
+
+# hora = hora + min
+
+# min = min % 60
+
+# hora = hora % 24
+
+# print (hora, ":" , min, sep='')
+
+
+# x = int(input())
+# y = int(input())
+ 
+# x = x // y
+# y = y // x
+ 
+# print(y)
+ 
+# x = int(input())
+# y = int(input())
+ 
+# x = x % y
+# x = x % y
+# y = y % x
+ 
+# print(y)
+ 
+
+# x = input()
+# y = int(input())
+ 
+# print(x * y)
+ 
+
+x = 1 / 2 + 3 // 3 + 4 ** 2
+print(x)
+ 
+
+
