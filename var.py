@@ -63,3 +63,32 @@ x = x + 2
 x += 2
 
 print (x)   
+
+kilometers = 12.25
+miles = 7.38
+
+miles_to_kilometers = miles * 1.61      #1.61 é a unidade de medida arredondada para converter milhas em KM
+kilometers_to_miles = kilometers / 1.61 
+
+print(miles, "milhas é", round(miles_to_kilometers, 2), "quilômetros")
+print(kilometers, "quilômetros é", round(kilometers_to_miles, 2), "milhas")
+
+x = 0
+x = float(x)
+y = 3 * x**3 - 2 * x**2 + 3 * x - 1
+print("y =", y)
+
+x = 1
+x = float(x)
+y = 3 * x**3 - 2 * x**2 + 3 * x - 1
+print("y =", y)
+
+x = -1
+x = float(x)
+y = 3 * x**3 - 2 * x**2 + 3 * x - 1
+print("y =", y)
+
+a = 6
+b = 3
+a /= 2 * b
+print(a)
