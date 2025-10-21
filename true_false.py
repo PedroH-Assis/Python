@@ -57,3 +57,4 @@ teste = var >= var1
 n = int(input("Digite um número: ")) 
 
 print(n >= 100) 
+
